@@ -1,6 +1,6 @@
 # 🧠 AI NPC Terminal – Project Overview
 
-## 🎮 What's This All About?
+## 🎮 Step Into the World of AI-Powered Roleplay!
 
 **AI NPC Terminal** is a voice-enabled, multilingual roleplaying assistant where you can **talk to AI-powered characters** — just like NPCs in your favorite RPGs!
 
@@ -38,7 +38,7 @@ It supports:
 
 ---
 
-## 🚀 How It Works (Simplified Flow)
+## 🚀 How It Works 
 
 1. 🧙 Choose an NPC and preferred language via UI  
 2. 🎤 Speak or type your message  
