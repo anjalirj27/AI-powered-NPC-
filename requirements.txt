@@ -1,0 +1,9 @@
+streamlit
+torch
+whisper
+deep-translator
+groq
+gTTS
+pygame
+python-dotenv
+requests
