@@ -38,15 +38,6 @@ It supports:
 
 ---
 
-## 🧪 Use Cases
-
-- 🎮 RPG or Game Development Demos  
-- 🧪 Voice + AI Integration Showcases  
-- 🌍 Language Learning through Conversation  
-- 😄 Personal Entertainment or Portfolio Projects  
-
----
-
 ## 🚀 How It Works (Simplified Flow)
 
 1. 🧙 Choose an NPC and preferred language via UI  
